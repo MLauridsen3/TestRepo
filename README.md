@@ -1,2 +1,2 @@
-# TestRepo
-Test repo for CSC 305
+# Lab 1 Test Project
+This project was created to experiment with git.
